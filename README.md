@@ -3,6 +3,10 @@ Factory MP3 changer emulator. The system recognizes the changer as a Bluetooth p
 
 You need to install:
 esp32 core:
+
 esp32 by espressif system v3.3.5
-ESP32-audioI2S by schreibfaul1 v3.4.2 (https://github.com/schreibfaul1/ESP32-audioI2S)
+
+ESP32-audioI2S by schreibfaul1 v3.4.2 
+
+(https://github.com/schreibfaul1/ESP32-audioI2S)
  
