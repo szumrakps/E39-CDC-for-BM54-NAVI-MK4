@@ -2,7 +2,6 @@
 Factory MP3 changer emulator. The system recognizes the changer as a Bluetooth player. Controls it from the steering wheel and monitor, and displays the artist and song title on the monitor.
 
 You need to install:
-esp32 core:
 
 esp32 by espressif system v3.3.5
 
