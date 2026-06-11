@@ -11,8 +11,13 @@ ESP32-audioI2S by schreibfaul1 v3.4.2
 (https://github.com/schreibfaul1/ESP32-audioI2S)
  
 The required components are:
+
 ESP32 WROVER
+
 PCM5102A
+
 MINI560 5V
-TJA1027 (OPTIONALLY TJA1020, TJA1021, L9637D)
+
+TJA1027 (OPTIONALLY TJA1020, TJA1021, L9637D (the scheme needs to be adjusted))
+
 YOU DO ALL THIS AT YOUR OWN RISK.
