@@ -3,11 +3,13 @@ Factory MP3 changer emulator. The system recognizes the changer as a Bluetooth p
 Works with the BM54 tuner with the latest software reading MP3 tags and the mk4 navigation reader.
 
 You need to install
+
 Esp32 board core:
 
 esp32 by espressif system v3.3.5
 
 Library:
+
 ESP32-audioI2S by schreibfaul1 v3.4.2 
 
 (https://github.com/schreibfaul1/ESP32-audioI2S)
