@@ -2,7 +2,7 @@
 Factory MP3 changer emulator. The system recognizes the changer as a Bluetooth player. Controls it from the steering wheel and monitor, and displays the artist and song title on the monitor.
 Works with the BM54 tuner with the latest software reading MP3 tags and the mk4 navigation reader.
 
-You need to install
+You need to install;
 
 Esp32 board core:
 
